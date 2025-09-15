@@ -2,12 +2,12 @@ import pandas as pd
 
 # List of CSV file paths
 csv_files = [
-    '../2019.csv',
-    '../2020.csv',
-    '../2021.csv',
-    '../2022.csv',
-    '../2023.csv',
-    '../2024.csv',
+    'data/2019.csv',
+    'data/2020.csv',
+    'data/2021.csv',
+    'data/2022.csv',
+    'data/2023.csv',
+    'data/2024.csv',
 ]
 
 # Initialize an empty list to store dataframes
@@ -26,3 +26,4 @@ print("Combined DataFrame Head:")
 print(combined_df.head())
 print("\nCombined DataFrame Info:")
 combined_df.info()
+combined_df.to_csv("combined_data.csv", index=False, encoding="utf-8")
