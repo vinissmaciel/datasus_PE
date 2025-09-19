@@ -1,0 +1,3 @@
+Total de CNES únicos no período completo: 319
+Período analisado: 2019-01 a 2024-12
+Número de meses: 72
