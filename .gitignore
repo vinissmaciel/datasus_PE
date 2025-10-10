@@ -4,3 +4,4 @@ visualizacao.py
 .venv/
 cleaned_data.csv
 selected_data.csv
+descobre.py
