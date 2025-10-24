@@ -5278,10 +5278,11 @@
 5277;0802010296;DIÁRIA DE UTI II ADULTO - SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG) - COVID19                                                                                                                                                                              ;I;12;130;0;1372,8;227,2;9999;0;9999;0;06;      ;;
 5278;0802010300;DIÁRIA UTI II PEDIÁTRICA - SÍNDROME RESPIRATÓRIA AGUDA GRAVE (SRAG) - COVID19                                                                                                                                                                             ;I;0;12;0;1372,8;227,2;9999;0;9999;0;06;      ;;
 5279;0802010318;DIÁRIA DE LEITO DE SUPORTE VENTILATÓRIO PULMONAR                                                                                                                                                                                                          ;I;0;130;0;410,92;67,8;9999;0;9999;0;06;      ;;
-5280;0505010135;Transplante de Córnea (em cirurgias combinadas ou em reoperações).
-5281;0410010219;Reconstrução mamária pós-mastectomia total.
-5282;0416040292;Peritonectomia em oncologia.
-5283;0506020134;Este código não foi identificado em fontes públicas. Para obter a descrição correta, é necessário consultar diretamente a base de dados do SIGTAP.
-5284;0404020798;Este código não foi identificado em fontes públicas. Para obter a descrição correta, é necessário consultar diretamente a base de dados do SIGTAP.
-5285;0409060313;Laqueadura tubária na mesma internação de parto normal.
-5286;0406030162;Implante percutâneo de válvula aórtica (TAVI), por via transfemoral. 
+5280;0505010135;TRANSPLANTE DE CÓRNEA (EM CIRURGIAS COMBINADAS OU EM REOPERAÇÕES)
+5281;0410010219;RECONSTRUÇÃO MAMÁRIA PÓS-MASTECTOMIA TOTAL
+5282;0416040292;PERITONECTOMIA EM ONCOLOGIA
+5283;0506020134;NÃO ENCONTRADO
+5284;0404020798;OSTEOTOMIA DA MANDÍBULA PARA DISTRAÇÃO OSTEOGÊNICA MANDIBULAR
+5285;0409060313;LAQUEADURA TUBÁRIA NA MESMA INTERNAÇÃO DE PARTO NORMAL
+5286;0406030162;IMPLANTE PERCUTÂNEO DE VÁVULA AÓRTICA (TAVI), POR VIA TRANSFEMORAL
+ 
